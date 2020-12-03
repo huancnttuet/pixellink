@@ -1,4 +1,4 @@
-#BÀI TẬP LỚN MÔN XỬ LÝ ẢNH 
+# BÀI TẬP LỚN MÔN XỬ LÝ ẢNH 
 
 Code dự trên paper và có chỉnh sửa một số chỗ  [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/abs/1801.01315), by Dan Deng, Haifeng Liu, Xuelong Li, and Deng Cai.
 
